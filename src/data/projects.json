@@ -1,0 +1,38 @@
+[
+    {
+      "title": "Portfolio",
+      "imageSrc": "projects/portfolio.png",
+      "description": "A portfolio demonstrating my skills, projects, past experience, and contact information.",
+      "skills": ["Javascript", "React", "HTML/CSS"],
+      "date": "June 2024",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Spreadsheet",
+      "imageSrc": "projects/spreadsheet.png",
+      "description": "A group project to develop a spreadsheet application with features including version control, copy/paste, cell formatting, row insertion/deletion, and formula evaluation, along with a help menu detailing all functionalities.",
+      "skills": ["React", "Typescript", "HTML/CSS"],
+      "date": "September-December 2023"
+    }, 
+    {
+      "title": "Music Review Forum",
+      "imageSrc": "projects/spotify.png",
+      "description": "A group project to develop an online community forum for song reviews. Implemented the login, registration, and profile pages using JavaScript, Bootstrap, React, and Node.js. Additionally, created backend CRUD functionality using Express and integrated the database with MongoDB.",
+      "skills": ["React/Redux", "Javascript", "Express", "Node", "MongoDB", "Bootstrap"],
+      "date": "September 2022 – December 2022"
+    },
+    {
+      "title": "Image Processing App",
+      "imageSrc": "projects/imageProcessingApp.png",
+      "description": "A group project to develop an image processing application using Java, Java Swing, and the MVC design patterns. The app has an interactive graphical user interface with essential features to improve user experience. Includes different filters and color transformations to diversify options in the app.",
+      "skills": ["Java", "Java Swing"],
+      "date": "July 2021"
+    },
+    {
+      "title": "Music Around the World",
+      "imageSrc": "projects/databaseDesign.png",
+      "description": "A group project to establish connections for people from around the world using music. Implemented SQL queries for a JavaScript website with a Node.js backend connected to a MySQL database and a React.js frontend. Developed features enabling users to explore global music trends through various options. Designed an ER diagram showcasing relationships between charted songs, artists, and genres. ",
+      "skills": ["SQL", "Javascript", "React", "Node"],
+      "date": "July 2021"
+    }
+  ]

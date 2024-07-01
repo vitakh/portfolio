@@ -1,0 +1,34 @@
+[
+    {
+      "title": "AWS",
+      "imageSrc": "skills/aws.png"
+    },
+    {
+      "title": "Git",
+      "imageSrc": "skills/git.png"
+    },
+    {
+      "title": "VSCode",
+      "imageSrc": "skills/vscode.png"
+    },
+    {
+      "title": "Postman",
+      "imageSrc": "skills/postman.svg"
+    },
+    {
+      "title": "MongoDB",
+      "imageSrc": "skills/mongodb.png"
+    },
+    {
+      "title": "DBeaver",
+      "imageSrc": "skills/dbeaver.png"
+    },
+    {
+        "title": "Azure Devops",
+        "imageSrc": "skills/azure2.png"
+      },
+    {
+      "title": "mySQL Workbench",
+      "imageSrc": "skills/mysqlworkbench.png"
+    }
+  ]

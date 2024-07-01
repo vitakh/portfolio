@@ -1,0 +1,38 @@
+[
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png"
+    },
+    {
+        "title": "Angular",
+        "imageSrc": "skills/angular.png"
+      },
+    {
+      "title": "Node",
+      "imageSrc": "skills/node.png"
+    },
+    {
+        "title": "Express",
+        "imageSrc": "skills/express-js.png"
+    },
+    {
+        "title": "Bootstrap",
+        "imageSrc": "skills/bootstrap.png"
+    },
+    {
+        "title": "Jasmine",
+        "imageSrc": "skills/jasmine.svg"
+    },
+    {
+        "title": "JUnit5",
+        "imageSrc": "skills/junit.png"
+    },
+    {
+        "title": "Jest",
+        "imageSrc": "skills/jest.png"
+    },
+    {
+        "title": "Redux",
+        "imageSrc": "skills/redux.png"
+    }
+]

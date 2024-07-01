@@ -1,0 +1,49 @@
+[
+    {
+      "role": "Software Developer Co-op",
+      "organisation": "Verisk, Boston MA",
+      "startDate": "January",
+      "endDate": "June 2024",
+      "experiences": ["Developed components in reusable library using Angular and Typescript to enhance web dev efficiency", 
+        "Built a database unit testing framework on AWS using Lambda, S3, and Redshift to automate testing", 
+        "Enhanced skills in pipeline integration, YAML workflow file creation, and wrote Python scripts", 
+        "Developed UI for a crucial cloud platform component, leveraging reusable modules"],
+      "imageSrc": "history/verisk.png"
+    },
+    {
+      "role": "Automation QA Co-op",
+      "organisation": "Verisk, Boston MA",
+      "startDate": "January",
+      "endDate": "June 2023",
+      "experiences": ["Automated test cases by switching from UI to API test execution and reduced testing time by 67%", 
+        "Enhanced a scrum team’s regression process by reducing machine hours and improving people hours",
+      "Improved UI testing in C# through partial re-executions to optimize time and resource utilization",
+    "Developed scripts to automate processes and monitored Azure DevOps pipelines "],
+      "imageSrc": "history/verisk.png"
+    },
+    {
+      "role": "Undergraduate Teaching Assistant for Object-Oriented Design",
+      "organisation": "Khoury College of Computer Sciences, Boston MA",
+      "startDate": "May",
+      "endDate": "June 2022",
+      "experiences": [
+        "Assisted 15+ students per shift by holding individual office hours",
+        "Engaged in constant code debugging utilizing IntelliJ IDEA tools",
+        "Graded assignments and exams to provide feedback to students about their design of the code",
+        "Discussed the course structure with other TA’s and professors to boost the course effectiveness"
+      ],
+      "imageSrc": "history/khoury.jpeg"
+    },
+    {
+      "role": "Undergraduate Teaching Assistant for Fundamentals of Computer Science II",
+      "organisation": "Khoury College of Computer Sciences, Boston MA",
+      "startDate": "January",
+      "endDate": "May 2022",
+      "experiences": [
+        "Assisted 10+ students per shift by holding individual office hours",
+        "Monitored an online classroom environment Piazza to reduce students’ waiting time",
+        "Collaborated with other TA’s and professors to explain Java concepts to facilitate exam preparation"
+      ],
+      "imageSrc": "history/khoury.jpeg"
+    }
+  ]
