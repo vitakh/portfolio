@@ -1,5 +1,24 @@
 [
     {
+      "role": "Graduate Teaching Assistance for Foundations of Data Science",
+      "organisation": "Khoury College of Computer Sciences, Boston MA",
+      "startDate": "September",
+      "endDate": "December 2025",
+      "experiences": ["TBD"],
+      "imageSrc": "history/khoury.jpeg"
+    },
+    {
+      "role": "Software Engineer Intern",
+      "organisation": "LeGoz Inc., Braintree MA",
+      "startDate": "February",
+      "endDate": "August 2025",
+      "experiences": ["Migrated the hotel website from a builder platform to a standalone React/JavaScript application, reducing maintenance costs and increasing customization", 
+        "Analyzed 20+ customer feedback to improve usability, design, and functionality in early versions of the website", 
+        "Applied full-stack skills in a fast-paced startup environment to support efficient and scalable development", 
+        "Participated in product planning sessions, contributing ideas for new features and user-focused improvements"],
+      "imageSrc": "history/legoz.png"
+    },
+    {
       "role": "Software Developer Co-op",
       "organisation": "Verisk, Boston MA",
       "startDate": "January",

@@ -14,8 +14,8 @@ export const About = () => {
                     <li className={styles.aboutItem}>
                         <div className={styles.aboutItemText}>
                             <h3>I am Vita Khan</h3>
-                            <p>A fourth-year Computer Science student at Northeastern University</p>
-                            <p>Minor in Business Administration</p>
+                            <p>An incoming Master of Computer Science student at Northeastern University</p>
+                            <p>Graduated with BSCS and minor in Business Administration</p>
                         </div>
                     </li>
                     <li className={styles.aboutItem}>
