@@ -4,11 +4,14 @@
       "organisation": "Khoury College of Computer Sciences, Boston MA",
       "startDate": "September",
       "endDate": "December 2025",
-      "experiences": ["TBD"],
+      "experiences": ["Supported students via office hours, focusing on Python and DS/ML concepts",
+        "Collaborated with TA’s and faculty to improve students’ experience and course structure",
+        "Graded assignments, proctored labs and exams for over 100 students",
+        "Mentored 6 teams in creating Machine Learning models for group projects"],
       "imageSrc": "history/khoury.jpeg"
     },
     {
-      "role": "Software Engineer Intern",
+      "role": "Web Developer Intern",
       "organisation": "LeGoz Inc., Braintree MA",
       "startDate": "February",
       "endDate": "August 2025",
