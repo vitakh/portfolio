@@ -4,8 +4,7 @@
       "imageSrc": "projects/GUI.png",
       "description": "A group project involved developing a Java-based calendar application using a Swing GUI and standard Java libraries. The app followed the MVC pattern and allowed users to add, edit, export, and copy single or multiple events while managing multiple calendars with timezone support.",
       "skills": ["Java", "Java Swing", "JUnit", "Jacoco", "Pitest"],
-      "date": "June 2024",
-      "source": "https://github.com/vitakh/portfolio"
+      "date": "October 2025 - December 2025"
     },
     {
       "title": "Portfolio",
